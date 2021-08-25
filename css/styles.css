@@ -253,7 +253,6 @@ li .list :not(:last-child) {
   flex-basis: calc((100% - 3 * 30px) / 4);
   display: flex;
 
-  margin-top: calc(-1 * var(--card-set-gap));
   margin-right: 30px;
 }
 
